@@ -1,4 +1,4 @@
-`Sites used for current state of program (save as HTML only)`
+`Sites used for .ipynb notebooks (save as HTML only)`
 | Rename As: | URL |
 | ---------- | --- |
 | test1.html | https://preppykitchen.com/french-macarons/ |

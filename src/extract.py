@@ -51,7 +51,7 @@ def steps_from_page(path):
     steps = get_steps(find_recipe(blocks[0]["@graph"]))
     return steps
 
-def summarize_page(path):
+def summarize_page(path): #call this function with the file path to the recipes .HTML content
     blocks = load_ld_blocks(path)
     recipe = find_recipe(blocks[0]["@graph"])
     nutritionBool = "nutrition" in recipe

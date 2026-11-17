@@ -1,4 +1,4 @@
-‘Use Instructions’
+`Use Instructions`
 Choose any recipe, save to device as Webpage HTML only. 
 Open src/extract.py, call summarize_page() using the .html file path as argument.
 
